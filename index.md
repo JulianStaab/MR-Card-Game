@@ -1,7 +1,7 @@
 # MR Card Game Instructions
 
 ## What is the MR Card Game?
-![](https://user-images.githubusercontent.com/44223481/156355375-d3413231-aefb-44cf-8224-5c1c013d2e54.png)
+![](https://user-images.githubusercontent.com/44223481/157049038-248b81c4-30b8-4a06-b05d-1a28b1708b5e.png)
 
 MR Card Game is an educational, customizable AR (Augmented Reality) tower defense card game application that allows for playful learning by combining quiz questions with engaging real-time strategy gameplay. The goal of the game is to defend your castle against approaching attackers by casting spells, setting traps and building powerful defensive towers to slow down the invaders. In order to gain access to these defenses, players need to answer questions from a chosen field or topic. If answered correctly, players can use varying cards to defeat wave after wave of a wide variety of attackers.
 
