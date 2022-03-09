@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jekyll Theme - Navigation - MR Card Game
+title: Navigation - MR Card Game
 description: A Mixed Reality-Based Card Game for Formal and Informal Education.
 sitemap:
     priority: 0.7

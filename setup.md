@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jekyll Theme - Setup - MR Card Game
+title: Setup - MR Card Game
 description: A Mixed Reality-Based Card Game for Formal and Informal Education.
 sitemap:
     priority: 0.7

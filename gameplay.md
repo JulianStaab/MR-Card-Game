@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jekyll Theme - How to Play the Game - MR Card Game
+title: How to Play the Game - MR Card Game
 description: A Mixed Reality-Based Card Game for Formal and Informal Education.
 sitemap:
     priority: 1.0
