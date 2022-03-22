@@ -8,7 +8,7 @@ sitemap:
     changefreq: weekly
 ---
 ## How to Play the Game
-After successfully starting a game as described in the `Browse Levels` section, the game starts with the setup phase. In the in-game UI you will see the starting `Currency` of 150. Players can use this currency to buy towers, traps and spells in the game. The `Wave` counter will also be visible and currently set to 0 as no wave has started yet. With the start of each wave this counter will increase. Right next to it you can find the `Start next wave` button which upon being pressed, will start the first wave. Lastly, the cross in the top right corner allows you to give up and return to the main menu.
+After successfully starting a game as described in the `Play Levels` section, the game starts with the setup phase. In the in-game UI you will see the starting `Currency` of 150. Players can use this currency to buy towers, traps and spells in the game. The `Wave` counter will also be visible and currently set to 0 as no wave has started yet. With the start of each wave this counter will increase. Right next to it you can find the `Start next wave` button which upon being pressed, will start the first wave. Lastly, the cross in the top right corner allows you to give up and return to the main menu.
 <div><a class="image main"><img src="{{ "/images/GameOverlay.png" | absolute_url }}" alt="" style="max-width: 100%;"/></a></div>
 
 ### The Game Board
